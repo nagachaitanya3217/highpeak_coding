@@ -1,0 +1,10 @@
+cooker: 5000
+heater: 2200
+cooler fan: 15000
+Air conditioner: 54000
+Refrigirator: 25000
+smart TV: 80000
+ceiling fan: 4000
+locker: 35000
+security camera: 7000
+projector: 40000

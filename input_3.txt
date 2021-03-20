@@ -1,0 +1,10 @@
+BiCycle: 5000
+Gear cycle: 22000
+Bike: 150000
+Helmet: 54000
+Riding gear: 80000
+Riding accessories: 30000
+car: 800000
+Gopro: 35000
+DSLR camera: 70000
+Barkbusters: 10000

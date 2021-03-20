@@ -1,0 +1,10 @@
+iphone: 86000
+airpods: 22000
+mac book pro: 150000
+samsung tab: 74000
+ipad pro: 98000
+vaccum cleaner: 30000
+Google nest: 4000
+Blender: 3000
+smart home controller: 7000
+wireless charger: 9000
